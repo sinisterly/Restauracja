@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.PanelKontrolnyController">
+   <children>
+      <HBox layoutX="16.0" layoutY="72.0" prefHeight="102.0" prefWidth="580.0" style="-fx-background-color: green;">
+         <children>
+            <Button mnemonicParsing="false" onAction="#dodajDostawce" prefHeight="102.0" prefWidth="211.0" text="Dodaj Dostawce" />
+            <Button mnemonicParsing="false" onAction="#dodajPosilek" prefHeight="102.0" prefWidth="233.0" text="Dodaj Posilek" />
+            <Button mnemonicParsing="false" onAction="#dodajZamowienie" prefHeight="102.0" prefWidth="242.0" text="Dodaj Zamowienie" />
+         </children>
+      </HBox>
+      <HBox layoutX="16.0" layoutY="274.0" prefHeight="102.0" prefWidth="580.0" style="-fx-background-color: green;">
+         <children>
+            <Button mnemonicParsing="false" onAction="#wyswietlKlientow" prefHeight="105.0" prefWidth="111.0" text="Klienci" />
+            <Button mnemonicParsing="false" onAction="#wyswietlDostawcow" prefHeight="102.0" prefWidth="110.0" text="Dostawcy" />
+            <Button mnemonicParsing="false" onAction="#wyswietlPosilki" prefHeight="102.0" prefWidth="112.0" text="Posilki" />
+            <Button mnemonicParsing="false" onAction="#wyswietlZamowienia" prefHeight="102.0" prefWidth="136.0" text="Zamowienia" />
+            <Button mnemonicParsing="false" onAction="#zapisz" prefHeight="103.0" prefWidth="96.0" text="zapisz" />
+            <Button mnemonicParsing="false" onAction="#wczytaj" prefHeight="102.0" prefWidth="79.0" text="wczytaj" />
+         </children>
+      </HBox>
+      <HBox layoutX="16.0" layoutY="174.0" prefHeight="102.0" prefWidth="580.0">
+         <children>
+            <Button mnemonicParsing="false" onAction="#dodajKlientaOkazjonalnego" prefHeight="100.0" prefWidth="173.0" text="Dodaj Klienta Okazjonalnego" />
+            <Button mnemonicParsing="false" onAction="#dodajKlientaFirmowego" prefHeight="100.0" prefWidth="206.0" text="Dodaj Klienta Firmowego" />
+            <Button mnemonicParsing="false" onAction="#dodajKlientaStalego" prefHeight="100.0" prefWidth="205.0" text="Dodaj Klienta Stalego" />
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>

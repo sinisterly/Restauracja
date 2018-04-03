@@ -1,0 +1,144 @@
+Pizza
+Margarita
+sos pomidorowy, ser, przyprawy
+Pizza
+Funghi
+sos pomidorowy, ser, pieczarki, przyprawy
+Pizza
+Vesuvio 
+sos pomidorowy, ser, pieczarki, szynka, przyprawy
+Pizza
+Wenezia 
+sos pomidorowy, ser, pieczarki, boczek, przyprawy
+Pizza
+Salami 
+sos pomidorowy, ser, pieczarki, salami, przyprawy
+Pizza
+Pescatore 
+sos pomidorowy, ser, pieczarki, tunczyk, oliwki, cebula, przyprawy
+Pizza
+Vega 
+sos pomidorowy, ser mozzarella, pieczarki, cebula, suszone pomidory, swieza rukola, przyprawy
+Pizza
+Capricciosa 
+sos pomidorowy, ser, pieczarki, szynka, kukurydza, papryka, przyprawy
+Pizza
+Hawajska 
+sos pomidorowy, ser, szynka, ananas, przyprawy
+Pizza
+Amore
+sos pomidorowy, ser, pieczarki, kurczak, szynka, oliwki, przyprawy
+Pizza
+Sycylijska 
+sos pomidorowy, ser, pieczarki, szynka, tunczyk, kukurydza, pomidor, oliwki, przyprawy
+Pizza
+Gangsterska 
+sos pomidorowy, ser, pieczarki, kielbasa, bekon, ogorek, papryka, cebula, czosnek, przyprawy
+Pizza
+Rustica 
+sos pomidorowy, ser, szpinak, oliwki, salami, pomidor, przyprawy
+Pizza
+Pepperoni 
+sos pomidorowy, ser, pieczarki, salami pepperoni, papryka, przyprawy
+Pizza
+Carbonara 
+sos smietanowo-czosnkowy, boczek, cebula, jajko, ser parmezan, ser mozzarella, swieza pietruszka, przyprawy
+Pizza
+Los Qurczakos 
+sos pomidorowy, ser, pieczarki, kurczak, szynka, kukurydza, przyprawy
+Pizza
+Marysienka 
+sos pomidorowy, ser, pieczarki, szynka, salami, papryka, cebula, przyprawy
+Pizza
+Italiana 
+sos pomidorowy, ser parmezan, mozarella, salami, boczek, cebula, pomidory suszone, czosnek, przyprawy
+Pizza
+Boruta 
+sos pomidorowy, ser, pieczarki, salami, kielbasa, szynka, tabasco, papryka, przyprawy
+Pizza
+Zemsta Kucharza 
+sos pomidorowy, ser, pieczarki, salami, boczek, pepperoni, cebula, chilli, tabasco, przyprawy
+Pizza
+Diabelska 
+sos pomidorowy, ser, pieczarki, szynka, salami, boczek, cebula, czosnek, tabasco, przyprawy
+Pizza
+Karola 
+sos pomidorowy, ser, pieczarki, szynka, kurczak, ananas, przyprawy
+Pizza
+Specjale 
+sos pomidorowy, mozarella, lazur plesniowy, filet z kurczaka marynowany, szynka, szpinak, rukola i czosnek
+Pizza
+Parma 
+sos pomidorowy, ser mozzarella, szynka parmenska, swieza rukola, ser parmezan, przyprawy
+Pizza
+Corleone 
+sos smietanowo - czosnkowy, ser, szynka, boczek, kurczak, cebula, oliwki, przyprawy
+Pizza
+Serowa Uczta 
+sos pomidorowy, ser mozzarella, lazur plesniowy, ser parmezan, ser wedzony, przyprawy
+Pizza
+Kebab Pizza 
+sos pomidorowy, ser, sos chilli, marynowany filet kurczaka, cebula, ogorek, pomidor, przyprawy + sos czosnkowy na zyczenie
+Pizza
+Swojska
+sos pomidorowy, podwojny ser, pieczarki, szynka, kielbasa, salami, boczek, ogorek kiszony, przyprawy
+Pizza
+Krolewska pizza na bialym sosie
+sos smietanowo-czosnkowy, ser mozzarella i parmezan , marynowane kawalki kurczaka, szynka, oliwki, pomidor, przyprawy
+Pizza
+Spinaci 
+sos pomidorowy, ser mozzarella, swiezy szpinak, czosnek, ser feta, przyprawy
+Pizza
+Firmowa 
+sos pomidorowy, ser, pieczarki, szynka, bekon, kurczak, cebula, papryka, czosnek, tabasco, przyprawy
+Pizza
+Kamikadze 
+sos pomidorowy, podwojne ciasto, podwojny ser, pieczarki, kurczak, bekon, szynka, sos chilli, papryka pepperoni, przyprawy
+Pizza
+Parkowa 
+sos pomidorowy, ser mozzarella, sos chilli, marynowany filet kurczaka, salami, oliwki, papryka pepperoni, ser feta, przyprawy
+Pizza
+Mamma Mia! 
+Sos pomidorowy, ser mozzarella, oliwki, kurczak marynowany, bekon, swieza rukola, oregano
+Salatki
+Roma 
+mix salat, rukola, pestki dyni, szynka parmenska, oliwki, ser parmezan, sos
+Salatki
+Ideale 
+mix salat, oliwki, pomidor, grillowane poledwiczki drobiowe, camembert, nasiona slonecznika, sos
+Salatki
+Perfecta 
+mix salat, grillowany kozi ser, gruszka, orzechy wloskie, sos balsamiczny
+Salatki
+Cezar 
+mix salat, pomidor, ogorek, kurczak i boczek z grilla, ser parmezan, sos
+Salatki
+Tuna 
+mix salat, ogorek, kukurydza, tunczyk, oliwki, sos
+Salatki
+Kurczak na fecie 
+mix salat, pomidor, cebula, kurczak z grilla, ser feta, sos
+Salatki
+Z kurczakiem 
+mix salat, pomidor, kurczak, kukurydza , sos, ser parmezan
+Salatki
+Wloska 
+mix salat, pomidory suszone, oliwki, biala mozzarella, szynka parmenska, sos
+Salatki
+Grecka 
+mix salat, pomidory, ogorek, czerwona cebula, oliwki, ser feta, oliwa, sos
+Salatki
+Specjale 
+mix salat, pomidory, oliwki, marynowany kurczak z grilla, ser plesniowy lazur, sos
+Makarony
+Con funghi 
+Makaron z borowikami i grillowanym schabem w kremowym grzybowym sosie
+Makarony
+Bolognese 
+Makaron z wolowina, pomidorami, ziolami i parmezanem
+Makarony
+Alfredo 
+Makaron z grillowanym kurczakiem i pieczarkami w sosie smietanowo-serowym
+Makarony
+Spinaci 
+Makaron w kremowym sosie ze swiezym szpinakiem i marynowanym kurczakiem

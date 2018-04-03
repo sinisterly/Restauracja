@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.OknoInformacyjneController">
+   <children>
+      <VBox layoutX="67.0" layoutY="53.0" prefHeight="320.0" prefWidth="314.0" style="-fx-background-color: red;">
+         <children>
+            <Label fx:id="label1" prefHeight="324.0" prefWidth="319.0" style="-fx-background-color: white;" />
+         </children>
+      </VBox>
+      <VBox fx:id="vBox" layoutX="462.0" layoutY="83.0" prefHeight="200.0" prefWidth="100.0">
+         <children>
+            <Button fx:id="button" mnemonicParsing="false" onAction="#usun" prefHeight="66.0" prefWidth="102.0" text="Usun" />
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>
